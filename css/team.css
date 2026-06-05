@@ -5,6 +5,11 @@
 .team-title {
     text-align: center;
     margin-bottom: 72px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
 }
 
 .team-subtitle {
