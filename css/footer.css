@@ -10,14 +10,14 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #f4f4fd;
     text-decoration: none;
     display: inline-block;
     margin-bottom: 16px;
 }
 
 .logo-footer {
-    color: #f4f4fd;
+    color: #4d5ae5;
 }
 
 .footer-text {
